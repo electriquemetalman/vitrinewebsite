@@ -26,8 +26,8 @@
 							<li><a href="/programme">Programme</a></li>
 							<li><a href="/biographie">Biographie</a></li>
 							<li><a href="/galerie">Galerie</a></li>
-                            <li><a href="news.html">Hommage</a></li>
-							<li><a href="contact.html">Localisation et Contact</a></li>
+                            <li><a href="/hommage">Hommage</a></li>
+							<li><a href="/localisation">Localisation et Contact</a></li>
 						</ul>
 					</div>
 				</div>
